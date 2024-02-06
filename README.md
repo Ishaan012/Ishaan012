@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ishaan! 👋</h1>
 
-<h3 align ="center">College Student.😀</h3>
+<h3 align ="center">Final Year Student😀</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ishaan012.ishaan012)
 
