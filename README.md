@@ -8,8 +8,6 @@
 
  - 🔭 I’m currently working on learning NextJS framework 
 
- - 🌱 I’m currently learning Full Stack Web Development 
-
  - 👨‍💻 All of my projects are available at https://github.com/ishaan012
 
  - 📫 How to reach me ishaan.rawat.ishu@gmail.com
