@@ -15,9 +15,11 @@
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
-<a align="center" href="https://skillicons.dev">
+<p align="center">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,py,react,nextjs,nodejs,express,mongodb,mysql,django,bootstrap,tailwind" />
 </a>
+</p>
 
 <br>
 <br>
@@ -30,6 +32,6 @@
 </p>
 
 <br><br>
-<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan012&theme=tokyonight) <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaan012&show_icons=true&theme=tokyonight)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan012&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=ishaan012&show_icons=true&theme=tokyonight)
 
