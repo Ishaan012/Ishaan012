@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishaan012)](https://github.com/ryo-ma/github-profile-trophy)
 
- - 🔭 I’m currently working on learning NextJS framework 
+ - 🔭 I’m currently learning NextJS framework 
 
  - 👨‍💻 All of my projects are available at https://github.com/ishaan012
 
