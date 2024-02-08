@@ -33,5 +33,5 @@
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan012&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api?username=ishaan012&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ishaan012&show_icons=true&theme=tokyonight)
 
