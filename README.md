@@ -8,7 +8,7 @@
 
  - 🔭 I’m currently learning NextJS framework 
 
- - 👨‍💻 All of my projects are available at https://github.com/ishaan012
+ - 👨‍💻 All of my projects are available at https://github.com/Ishaan012?tab=repositories
 
  - 📫 E-mail: ishaan.rawat.ishu@gmail.com
 
