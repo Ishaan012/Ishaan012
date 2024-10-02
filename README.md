@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ishaan! 👋</h1>
 
-<h3 align ="center">Full Stack Web Developer</h3>
+<h3 align ="center">Currently working on an Ecommerce website project</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishaan012)](https://github.com/ryo-ma/github-profile-trophy)
 
